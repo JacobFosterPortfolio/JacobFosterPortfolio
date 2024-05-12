@@ -26,6 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Cloud
+<div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 
 
