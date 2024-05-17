@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jacob-foster-5ab85223b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with an associate's degree in Cybersecurity who has a passion for continuous learning about online secuity and solving complex problems. I have continued by learning by obtaining certifications in both Splunk and AWS. As I continue to learn and gain hands on experience I will be actively updating my profilio with new projects.
 
 ## Objective
 
@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Analyst Threat Hunting with Splunk       | <a href="https://google.com">Detection Lab</a>|
+| SOC Analyst Threat Hunting with Splunk       | <a href="https://docs.google.com/document/d/11pTl8QqZodp0llnt4nXCLOCFcbqKp886Mn02nhlsL90/edit?usp=sharing">SOC Analyst Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
