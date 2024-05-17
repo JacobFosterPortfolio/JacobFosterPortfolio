@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Analyst Threat Hunting with Splunk       | <a href="https://docs.google.com/document/d/11pTl8QqZodp0llnt4nXCLOCFcbqKp886Mn02nhlsL90/edit?usp=sharing">SOC Analyst Lab</a>|
+| SOC Analyst Threat Hunting with Splunk       | <a href="https://bit.ly/3V5EHzO">SOC Analyst Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
