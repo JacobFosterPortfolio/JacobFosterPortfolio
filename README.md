@@ -40,7 +40,3 @@ I am eager to leverage my diverse business background, strong interest in IT, an
 <img src="https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
