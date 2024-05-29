@@ -34,6 +34,7 @@ I am eager to leverage my diverse business background, strong interest in IT, an
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/-SY0--701%20--%20CompTIA%20Security+-00529F?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk_Core_Certified_Power_User-000000?style=for-the-badge&logo=Splunk&logoColor=orange" />
 <img src="https://img.shields.io/badge/-Splunk_Enterprise_Certified_Admin-000000?style=for-the-badge&logo=Splunk&logoColor=orange" />
 <img src="https://img.shields.io/badge/-AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
