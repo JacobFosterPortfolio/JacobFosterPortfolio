@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jacob-foster-5ab85223b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with an Associate's degree in Cybersecurity, passionate about online security and solving complex problems. To enhance my skills, I have earned certifications in Splunk and AWS, and I am committed to continuous learning in the field of cybersecurity.
+I am a recent graduate with an Associate's degree in Cybersecurity, passionate about online security and solving complex problems. To enhance my skills, I have earned certifications in Splunk and AWS, along with obtaining the SY0-701 CompTIA Security+. I am committed to continuous learning in the field of cybersecurity.
 
 ## Objective
 
