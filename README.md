@@ -13,6 +13,7 @@ I am eager to leverage my diverse business background, strong interest in IT, an
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Analyst Threat Hunting with Splunk       | <a href="https://bit.ly/3V5EHzO">SOC Analyst Lab</a>|
+| SOC Analyst Threat Hunting with Splunk       | <a href="https://bit.ly/3V5EHzO">SOC Analyst Lab</a>|
 
 ## Tools
 
