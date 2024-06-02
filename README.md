@@ -22,7 +22,8 @@ I am enthusiastic about applying my diverse business experience, strong passion 
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-EC2-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-S3-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-CloudTrail-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+
 
 
 
