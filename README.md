@@ -6,7 +6,7 @@ I am a recent graduate with an Associate's degree in Cybersecurity, passionate a
 
 ## Objective
 
-I am eager to leverage my diverse business background, strong interest in IT, and relevant skills to secure a position as a Tier 1 SOC Analyst.
+I am enthusiastic about applying my diverse business experience, strong passion for IT, and hands-on skills to secure a position as a Tier 1 SOC Analyst.
 
 ## Skills/Projects
 
