@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/jacob-foster-5ab85223b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with an Associate's degree in Cybersecurity, passionate about online security and solving complex problems. To enhance my skills, I have earned certifications in Splunk and AWS, along with obtaining the SY0-701 CompTIA Security+. I am committed to continuous learning in the field of cybersecurity.
+I am a recent graduate with an Associate's degree in Cybersecurity, driven by a passion for online security and solving complex problems. To further strengthen my skills, I have earned certifications in Splunk and AWS, as well as the SY0-701 CompTIA Security+. I am dedicated to continuous learning and growth in the field of cybersecurity.
 
 ## Objective
 
-I am enthusiastic about applying my diverse business experience, strong passion for IT, and hands-on skills to secure a position as a Tier 1 SOC Analyst.
+I am enthusiastic about applying my diverse business experience, strong passion for IT, and hands-on skills to work in the field of Cybersecurity.
 
 ## Skills/Projects
 
