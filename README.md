@@ -14,8 +14,8 @@ I am enthusiastic about applying my diverse business experience, strong passion 
 |-----------------------------------------------|----------------------------|
 | SOC Analyst Threat Hunting with Splunk       | <a href="https://bit.ly/3V5EHzO">SOC Analyst Lab</a>|
 | AWS CloudTrail Investigation with Splunk       | <a href="https://bit.ly/3yHtXiz">AWS Cloudtrail Lab</a>|
-| AWS CloudTrail Investigation with Splunk       | <a href="https://bit.ly/3yHtXiz">AWS Cloudtrail Lab</a>|
-| AWS CloudTrail Investigation with Splunk       | <a href="https://bit.ly/3yHtXiz">AWS Cloudtrail Lab</a>|
+| Disk Image Forensic Analysis with FTK Imager      | <a href="https://bit.ly/4c9fj1E">Forensic investigation Lab</a>|
+| Network Traffic Analysis with Wireshark       | <a href="https://bit.ly/3yRkeWZ">Network Traffic Analysis Lab</a>|
 
 ## Tools
 
