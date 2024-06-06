@@ -14,6 +14,8 @@ I am enthusiastic about applying my diverse business experience, strong passion 
 |-----------------------------------------------|----------------------------|
 | SOC Analyst Threat Hunting with Splunk       | <a href="https://bit.ly/3V5EHzO">SOC Analyst Lab</a>|
 | AWS CloudTrail Investigation with Splunk       | <a href="https://bit.ly/3yHtXiz">AWS Cloudtrail Lab</a>|
+| AWS CloudTrail Investigation with Splunk       | <a href="https://bit.ly/3yHtXiz">AWS Cloudtrail Lab</a>|
+| AWS CloudTrail Investigation with Splunk       | <a href="https://bit.ly/3yHtXiz">AWS Cloudtrail Lab</a>|
 
 ## Tools
 
