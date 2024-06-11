@@ -12,7 +12,7 @@ I am enthusiastic about applying my diverse business experience, strong passion 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Distributed Splunk Environment Using AWS EC2      | <a href="https://bit.ly/3VGAcw8">AWS Splunk EC2</a>|
+| Distributed Splunk Environment Using AWS EC2      | <a href="https://bit.ly/3VGAcw8">AWS Splunk EC2 Project</a>|
 | SOC Analyst Threat Hunting with Splunk       | <a href="https://bit.ly/3V5EHzO">SOC Analyst Lab</a>|
 | AWS CloudTrail Investigation with Splunk       | <a href="https://bit.ly/3yHtXiz">AWS Cloudtrail Lab</a>|
 | Disk Image Forensic Analysis with FTK Imager      | <a href="https://bit.ly/4c9fj1E">Forensic investigation Lab</a>|
